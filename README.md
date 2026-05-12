@@ -27,11 +27,11 @@ The goal of this project is to uncover customer trends, spending patterns, produ
 
 ## Main Dashboard
 
-![Dashboard 1](dashboard_screenshots/main_dashboard.png)
+![Dashboard 1](dashboard_screenshot/main_dashboard.png)
 
 ## Best & Worst Analysis
 
-![Dashboard 2](dashboard_screenshots/best_worth.png)
+![Dashboard 2](dashboard_screenshot/best_worth.png)
 
 ---
 
