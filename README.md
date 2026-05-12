@@ -27,11 +27,11 @@ The goal of this project is to uncover customer trends, spending patterns, produ
 
 ## Main Dashboard
 
-![Dashboard 1](dashboard_screenshots/dashboard1.png)
+![Dashboard 1](dashboard_screenshots/main_dashboard.png)
 
 ## Best & Worst Analysis
 
-![Dashboard 2](dashboard_screenshots/dashboard2.png)
+![Dashboard 2](dashboard_screenshots/best_worth.png)
 
 ---
 
@@ -126,11 +126,3 @@ Customer-Behaviour-Analysis/
 # 👩‍💻 Author
 
 Amisha Verma
-
-## Main Dashboard
-
-![Main Dashboard](dashboard_screenshots/Screenshot 2026-05-12 112342.png)
-
-## Best & Worst Analysis
-
-![Best Worst Dashboard](dashboard_screenshots/Screenshot 2026-05-12 112421.png)
